@@ -1,6 +1,6 @@
 cask "agmail" do
-  version "1.0.0"
-  sha256 "8fbbb921de3d7a1a222a9c8642ab6628ba035122557c85bcc680ffe53b21ebc7"
+  version "1.0.1"
+  sha256 "e900690c98950bcdfca727ce1a0e6096bc58a422010a4747e10eedd5b36d5e2c"
 
   url "https://github.com/VerusK/agapp/releases/download/v#{version}/AgMail-#{version}.dmg"
   name "AgMail"
