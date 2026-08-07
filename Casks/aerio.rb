@@ -1,6 +1,6 @@
 cask "aerio" do
-  version "1.6.3"
-  sha256 "c313ac532b5c2e8fe1686eea0e84ba5e5fdb7394c6e61a4246ce251531c685cb"
+  version "1.6.4"
+  sha256 "9b8021e6c7f4e4d9ba9460e21ac93ad894b330ab509403d17daa598f3df9f7c0"
 
   url "https://github.com/VerusK/aerio/releases/download/v#{version}/Aerio-#{version}.dmg"
   name "Aerio"
